@@ -3,7 +3,7 @@
 走过路过的各位烙铁，在此抱拳，给这个项目点个 star，积累下来十分不易，也算是对我坚持下来的一种鼓励吧！
 
 ## 入门
-![](https://github.com/ChiYaoLa/flink-start-learn/blob/master/docs/flink-0106.png)
+![脑图](https://githubimg.oss-cn-beijing.aliyuncs.com/flink-0106.png?Expires=1610286183&OSSAccessKeyId=TMP.3Ke8qVE3ToZK4QcqULnWg6bvJydUgixrixE5uro36bQ9TDQCmTEgMK59wLLmJFLHn2AVjkTL9hiivb9CQFVM3EyXUXAgdy&Signature=2ZQdJO5I4LsaUBeXuwDdCZWzXI4%3D)
 
 基于以下链接：
 1、[Flink 从0到1学习 —— Apache Flink 介绍](http://www.54tianzhisheng.cn/2018/10/13/flink-introduction/)
